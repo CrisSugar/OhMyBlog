@@ -1,0 +1,8 @@
+.deleteBut{
+    width: 40px;
+    height: 40px;
+    background-color: rgba(190, 164, 111, 0.8);
+    color: brown;
+    border-radius: 0.5em;
+}
+

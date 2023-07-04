@@ -1,0 +1,14 @@
+body{
+    padding: 5px;   
+}
+.footer{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(204, 157, 249);
+    opacity:0.8;
+    font-size: 21px;
+    font-weight: bold;
+    margin: 5px;
+    padding-top: 15px;
+}

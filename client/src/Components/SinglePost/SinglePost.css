@@ -1,0 +1,33 @@
+.postCard {
+    margin-top: 10px;
+    padding: 20px;
+    color: antiquewhite;
+}
+
+.mainCard {
+    word-wrap: break-word;
+}
+
+.centrumCard {
+    background-color: rgb(20, 63, 44);
+    padding: 20px;
+    /* display: flex; */
+    word-wrap: break-word;
+}
+
+.contentCard::first-letter {
+    color: rgb(0, 255, 195);
+    font-size: 150%;
+}
+
+.postDateCreat {
+    font-style: italic;
+}
+
+.butEdition {
+    width: 40px;
+    height: 40px;
+    background-color: rgba(190, 164, 111, 0.8);
+    color: brown;
+    border-radius: 0.5em;
+}

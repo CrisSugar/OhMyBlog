@@ -1,0 +1,51 @@
+body{
+    padding: 5px;   
+    background-image: url('../../../public/images/gijon_wallpaper.jpg');
+    background-attachment: fixed;
+}
+#ohmycity{
+    font-size: 67px;
+    color: rgb(132, 21, 87);
+    font-style:oblique;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.mainPosts{
+    padding-top: 20px;  
+}
+.postsHeader{
+    padding: 15px;
+    color: rgb(70, 70, 73);
+}
+.postsSection{
+    padding: 10px;
+    border-radius: 0.2em;
+}
+#postArticle{
+    background-color: rgba(234, 233, 231, 0.8);
+    word-wrap: break-word;
+    margin-bottom: 40px;
+    border-radius: 0.5em;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 30px;
+    overflow:hidden;
+}
+.postImage{
+    /* width: 430px; */
+    border: 10px;
+    border-style:  dotted;
+    filter: grayscale(80%);
+}
+.postImage:hover{
+    filter: grayscale(0%);
+}
+.postTitle{
+    margin-top: 10px;
+    color: rgb(179, 67, 134);
+    /* font-style: italic; */
+}
+.postDateCreat{
+    font-style: italic;
+    color:rgb(106, 111, 111)
+}

@@ -1,0 +1,15 @@
+.modal{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(180, 168, 192);
+    opacity: 0.89;
+    z-index: 30000000000000;
+}
+
+.modal-content{
+    top: 20vh;;
+    background-color: rgb(173, 250, 238);
+    border: 0.5px solid white;
+    border-radius: 0.3em;
+    opacity: 1;
+}
